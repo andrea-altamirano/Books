@@ -17,3 +17,13 @@ Una vez estando en el entorno de trabajo de google asegurate de estar utilizando
 <img src="IMAGEN.png" width="500">
 <img src="IMAGEN.png" width="500">
 
+Para continuar, debes estar conectado a Google Colab y dar en ejecutar todo, hay un total de ocho casillas de las cuales siete se ejecutaran.
+
+La primera solo copiara el reposito de GitHub
+<img src="IMAGEN.png" width="500">
+
+En la segunda encontraremos la descarga de las librerias
+<img src="IMAGEN.png" width="500">
+
+Para la tercera casilla es dónde hacemos uso de una dataset previamente descargada de Roboflow con las caracteristicas buscadas para este proyecto. 
+<img src="IMAGEN.png" width="500">

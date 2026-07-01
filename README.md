@@ -74,15 +74,13 @@ Gracias a esta automatización, el personal de almacén solo recibe notificacion
 
 ## Resultados/Evidencia
 
-Algunos de los resultados obtenidos apartir del código, mostrados uno por uno son los siguientes:
+Algunos de los resultados positivos y negativos obtenidos apartir del código, mostrados uno por uno son los siguientes:
 
-<img src="IMAGENES/13.png" width="400">
 <img src="IMAGENES/14.png" width="400">
 <img src="IMAGENES/15.png" width="400">
 <img src="IMAGENES/16.png" width="400">
 <img src="IMAGENES/17.png" width="400">
 <img src="IMAGENES/18.png" width="400">
-
 
 Por otro lado, podemos visualizar resultados en el área de archivos, en run/detect/train como se muestra a continuación: 
 

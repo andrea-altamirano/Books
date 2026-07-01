@@ -72,7 +72,7 @@ El sistema opera mediante un escaneo continuo del campo de visión asignado, cla
 
 Gracias a esta automatización, el personal de almacén solo recibe notificaciones cuando es estrictamente necesario, permitiendo avances rápidos y precisos. Este flujo  optimiza los tiempos de inventario y también garantiza que las áreas de almacenamiento se mantengan organizadas y accesibles. Con este modelo binario, se logra una solución escalable y de bajo costo que transforma la logística física en un proceso inteligente y altamente monitoreado.
 
-## Resultados 
+## Resultados/Evidencia
 
 Algunos de los resultados obtenidos apartir del código, mostrados uno por uno son los siguientes:
 
@@ -97,3 +97,5 @@ Y tambien tenemos gráficas creadas en ese mismo espacio donde vemos el desempe�
 <img src="IMAGENES/23.png" width="400">
 <img src="IMAGENES/24.png" width="400">
 <img src="IMAGENES/25.png" width="400">
+
+

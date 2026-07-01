@@ -42,5 +42,7 @@ Al final vemos un fragmento de código que esta comentado, ese código puede ser
 <img src="IMAGEN.png" width="500">
 (Buscar los tres puntos al costado para descargr el archivo best.pt)
 
+
+
 *Colocar en la terminal de Visual Studio lo siguiente:*
 & "C:\Users\ruta_modificar" -m pip install ultralytics opencv-python
